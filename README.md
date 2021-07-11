@@ -1,1 +1,106 @@
-# 1st-html-code
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset-utf-8"/>
+<title> Website Project</title>
+</head>
+<body>
+<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5" bgcolor="#000000" >
+<tr>
+ <td align="left">
+ <table width="547" boder="0" align ="center" cellpadding="1" cellspacing="1" >
+ 
+ <td width ="96"><font face="Veranda" color="white"><h3><a href="https://www.google.co.in/">Home</h3></a></font></td>
+ <td width ="113"><font face="Veranda" color="white"><h3><a href="https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1">About</h3></a></font></td> 
+ <td width ="128"><font face="Veranda" color="white"><h3><a href="https://about.google/products/">Services</h3></a></font></td>
+ <td width ="114"><font face="Veranda" color="white"><h3>Clients</h3></font></td>
+ <td width ="80"><font face="Veranda" color="white"><h3>Contacts</h3></font></td>
+
+
+</table>
+</td>
+</tr>
+</table>
+
+<table width="100%" height="150" border="0" cellspacing="5" cellpadding="5" bgcolor="#F0F0F0" >
+<tr>
+<td align="center">
+    <table width="700" boder="0" align ="center" cellpadding="1" cellspacing="1" >
+	   <tr>
+	      <td width ="338" align="left" ><font face="Veranda" color="black" size="5">
+		  <b> My Business</b> <br/>
+		  Website</font></td>
+		  
+		  <td width ="300" align="right" ><font face="Veranda" color="black" size="5">
+		  <b> Call us Today!</b> <br/>
+		     1-800-000-0000</font></td>
+		</tr>
+    </table>
+	</td>
+<table width="100%" height="150" border="0" cellspacing="5" cellpadding="5" bgcolor="white" >
+	<tr>
+	  <td><img src="https://www.illumania.com/images/office_banner.jpg" align="center" width="100%" height="500" /></td>
+	</tr>
+</table>
+<table width="100%" height="150" border="0"  cellspacing="5" cellpadding="5" bgcolor="white" >
+<tr>
+<td  height="70" align="center" valign="top"><font face="Veranda" color="black" size="6">
+ This is my company page<br/>
+ <b> Dream.Plan.Create</b> </td></tr>
+ </table>
+ <table width="100%" height="150" border="0" cellspacing="5" cellpadding="5" bgcolor="white" >
+   <tr>
+      <td height="70" align="center" valign="top">
+	  <table width ="313" border="0" cellspacing="3" cellpadding="3" bgcolor="orange">
+	   <tr>
+	   <td width="300" align="center" nowrap="nowrap" > <font face="Veranda" color="white" size="6">
+	   <a href="#180-000-0000"> Contact us Today!</a><br/>
+	   </font></td>
+	   </tr>
+	   </table>
+	   </td>
+	</tr>
+	
+	<tr>
+	    <td height="70" align="center" valign="top">
+		<font face="Veranda" color="black" size="2"><b>Register for our Newsletter:</b>
+		</font><br/>
+		<form name="contact" method="post" action="send.php">
+		<input type="text" name="email"/>
+		<input type="submit" name="button" value="Submit"/>
+		</form>
+		</td>
+	</tr>
+</table>
+<table width="100%" height="150" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+<tr>
+<td  height="70" align="left" valign="top"><font face="Veranda" color="black" size="2">
+<h3>About</h3>
+<p>On the global stage, India continues to be the best business hubs in the world 
+with growth opportunity, particularly in the tech sector. This socio economic rich country 
+attracts business groups from all over the world because of its market potential and the
+ infrastructure.According to the sources prediction, in 2030, India's largest cities will be
+ larger than many major countries in both population and economic output.Keeping this aspect
+ in mind CompanyInfoz.com has been launched to provide detailed information about the business
+ cities and states. The website gives an intensive and extensive detail about the infrastructure
+ of a city or state plus the detailed information about the private limited company or public
+ limited companies of India and company director's detailed information. It gives the address,
+ registration date, ROC code and the active and inactive status of the company and the working
+ directors. The website stores a large data for more than lakhs of companies registered as limited
+ or private Ltd companies in India.</p>
+ </td>
+ </tr>
+ </table>
+<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5" bgcolor="#000000" >
+<tr>
+ <td align="center">
+ <font face="Veranda" color="white" >
+ Home-About-Services-Clients-Contact<br/><br/>
+ @2021 by Mybusiness Website.<br/>
+ </font>
+ </td>
+ </tr>
+ </table>
+
+</body>
+</html>
